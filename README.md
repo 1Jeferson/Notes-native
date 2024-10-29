@@ -34,6 +34,13 @@ Confirmação visual antes de excluir qualquer nota.
 
 Tela detalhada de visualização da nota, exibindo o título, o conteúdo e a data de criação.
 
+
+
+https://github.com/user-attachments/assets/6054f555-429f-48b5-aa5e-6eaa634b2b05
+
+[Ver design no Figma](https://www.figma.com/design/O1JskBh5uQWkYPDA0EUKbB/Notes?node-id=0-1&t=MXjMTwG1MkTPWZgd-1)
+
+
 ---
 
 ## Tecnologias Utilizadas
