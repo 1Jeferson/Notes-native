@@ -49,3 +49,26 @@ https://github.com/user-attachments/assets/6054f555-429f-48b5-aa5e-6eaa634b2b05
 - **Expo Router:** Para navegação entre telas.
 - **SQLite:** Persistência local dos dados.
 - **React Native Gesture Handler e Reanimated:** Para gestos de swipe nas ações de editar e deletar notas.
+
+## Passo a Passo para Instalação e Execução
+- Clone o repositório:
+```
+git clone <URL do Repositório>
+cd notes-native
+```
+
+- Instale as dependências do projeto:
+```
+npm install
+```
+
+
+- Inicie o projeto:
+```
+npx expo start
+```
+
+
+## Escolha onde rodar:
+- **Expo Go** (dispositivo físico): Abra o app Expo Go (disponível na App Store e Google Play) e escaneie o QR code gerado no terminal.
+- **Emulador Android**: Abra um emulador com o Android Studio antes de iniciar o projeto.
