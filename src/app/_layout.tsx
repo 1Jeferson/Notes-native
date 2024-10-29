@@ -7,7 +7,7 @@ export default function Layout() {
   return (
     <GestureHandlerRootView>
       <SQLiteProvider
-        databaseName="notesNatibe.db"
+        databaseName="notesNative.db"
         onInit={initializeDatabase}
       >
         <Slot />
