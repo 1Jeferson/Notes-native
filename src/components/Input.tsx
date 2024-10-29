@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     fontSize: 32,
     marginBottom: 24,
-    borderColor: COLORS.background,
+    borderColor: COLORS.backgroundSecondary,
     paddingHorizontal: 16,
   },
   textArea: {

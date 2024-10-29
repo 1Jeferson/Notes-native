@@ -105,7 +105,7 @@ export default function Index() {
           ref={bottomSheetRef}
           index={-1}
           snapPoints={snapPoints}
-          backgroundStyle={{ backgroundColor: "#090014" }}
+          backgroundStyle={{ backgroundColor: "#27272A" }}
           handleIndicatorStyle={{
             backgroundColor: COLORS.textColor,
             width: 90,
